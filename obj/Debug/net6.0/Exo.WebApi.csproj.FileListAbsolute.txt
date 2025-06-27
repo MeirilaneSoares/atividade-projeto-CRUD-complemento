@@ -1085,3 +1085,4 @@ C:\Users\Meirilane\OneDrive\Área de Trabalho\Atividade Material\obj\Debug\net6.
 C:\Users\Meirilane\OneDrive\Área de Trabalho\Atividade Material\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Exo.WebApi.props
 C:\Users\Meirilane\OneDrive\Área de Trabalho\Atividade Material\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Exo.WebApi.props
 C:\Users\Meirilane\OneDrive\Área de Trabalho\Atividade Material\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Meirilane\OneDrive\Área de Trabalho\Atividade Material\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
